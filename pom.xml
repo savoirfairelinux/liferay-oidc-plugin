@@ -101,6 +101,10 @@
 			<name>Finalist public releases</name>
 			<url>https://nexus.iprofs.nl/content/repositories/releases-public</url>
 		</repository>
+        <site>
+            <id>dummy</id>
+            <url>https://dummy.com/</url>
+        </site>
 	</distributionManagement>
 
 	<repositories>
